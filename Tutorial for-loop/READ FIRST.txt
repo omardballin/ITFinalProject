@@ -1,0 +1,35 @@
+Welcome to Omar Diab's for-loop Python Tutorial!
+
+To get started I will start off with the 
+most basic for-loop.
+
+First we need an array.
+
+array = []
+
+You can put whatever you like in this array.
+I am going to put my favorite cars in this array
+
+favoritecars = ['350z', 'Acura TL', 'Mercedes e63', 
+'Infiniti', 'Gsxr', 'Corvette']
+
+Now that we have our array we may now start the for-loop!
+
+The structure of a for-loop is: for i in j:
+
+The i is the element in the array and the j is the array itself.
+
+So for my example, I would use: for car in favoritecars:
+
+You must use the : at the end of the for loop for-loop
+for python to be able to run it.
+
+Now that we have the for-loop structured we can set it up
+to be able to print it out in python using print().
+
+Congradulations! You now have the basic knowldge of how to execute
+a for-loop. The are many ways on how this is useful to use and I
+will be showing you some example in python itself!
+
+ 
+
